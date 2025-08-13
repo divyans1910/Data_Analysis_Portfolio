@@ -49,11 +49,18 @@ This project uses a dataset sourced from [Kaggle: Indian Kids Screen Time 2025](
 
 ### Bias Handling
 
-- Checked bias in:  
-  - Gender ratio (Male vs Female)  
-  - Age distribution  
-  - Urban vs Rural location  
-  - Device types  
+#### Gender ratio (Male vs Female)
+
+![Gender Ratio Bias](images/mfbias.png)
+
+#### Age distribution
+![Age Bias](images/agebias.png)
+
+#### Device types
+![Device type Bias](images/devicebias.png)
+
+#### Urban vs Rural location 
+![Location Bias](images/urbrurbias.png)
 
 - Moderate location bias (Urban 70%, Rural 30%) found.  
 - Instead of down/up-sampling (which causes data loss), used **weights** to adjust:  
@@ -77,6 +84,8 @@ This project uses a dataset sourced from [Kaggle: Indian Kids Screen Time 2025](
 - Males spend slightly more time on screens compared to females, though the difference is minimal (typically less than 0.15 hours).  
 - The data indicates consistent overuse of screens across all age and gender groups.
 
+  ![Question1_Chart](images/q1.png)
+
 ### 4.2 Device Usage Across Urban and Rural Locations
 
 - Smartphones are the most commonly used primary device, with 3,248 urban users (about 47% of urban children) and 1,320 rural users (around 30% of rural children).  
@@ -84,12 +93,16 @@ This project uses a dataset sourced from [Kaggle: Indian Kids Screen Time 2025](
 - TVs are the second most popular device in both urban and rural settings, but their usage is significantly less than smartphones.  
 - Laptops and tablets have relatively low usage overall, with urban children showing higher counts than rural peers.
 
+    ![Question2_Chart](images/q2.png)
+
 ### 4.3 Percentage Exceeding IAP Recommended Screen Time
 
 - An alarming 85.49% of children exceed the recommended screen time limits set by the IAP.  
 - Urban children are more likely to exceed these limits (60.33%) compared to rural children (25.14%).  
 - This widespread overuse suggests an urgent need for public health interventions and awareness campaigns tailored to different demographic groups.
 
+  ![Question3_Chart](images/q3.png)
+  
 ### 4.4 Most Common Health Issues Reported
 
 - Analysed health impacts reported by children related to screen time.  
@@ -102,7 +115,8 @@ This project uses a dataset sourced from [Kaggle: Indian Kids Screen Time 2025](
 - Many children experience multiple overlapping issues.  
 - Children exceeding recommended screen time limits tend to have higher occurrences of these health concerns.
 
-
+  ![Question4_Chart](images/q4.png)
+  
 ---
 
 ## 5. Insights
