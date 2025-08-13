@@ -28,7 +28,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 ## Contact
 
 - Email: dnanduri1910@gmail.com  
-- LinkedIn: linkedin.com/in/divya-nanduri-a86608256/ 
+- LinkedIn: [linkedin.com/in/nanduridivya/](linkedin.com/in/nanduridivya/) 
 - GitHub: https://github.com/divyans1910/
 
 ---
