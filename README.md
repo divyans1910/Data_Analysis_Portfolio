@@ -4,9 +4,11 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 
 ## Projects Included
 
+### Spreadsheet 
 - **Indian Kids Screen Time Analysis**  
   Analysis of screen time patterns among Indian children aged 8-18 using real-world datasets. Includes data cleaning, bias correction, pivot table analysis, and visualisations done primarily with Google Sheets.
 
+### Python + SQL 
 - *Coming soon :)*
 
 ## Tools & Techniques
