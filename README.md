@@ -1,2 +1,35 @@
 # Data_Analysis_Portfolio
-This repo showcases my data analyst portfolio with projects in data cleaning, exploration, visualization, and insight generation. It includes analyses using spreadsheets, Python, and other tools on real-world datasets. Highlights my skills in deriving and communicating actionable data insights.
+
+Welcome to my Data Analyst Portfolio! This repository showcases a collection of projects that demonstrate my skills in data cleaning, exploration, visualisation, and insight generation.
+
+## Projects Included
+
+- **Indian Kids Screen Time Analysis**  
+  Analysis of screen time patterns among Indian children aged 8-18 using real-world datasets. Includes data cleaning, bias correction, pivot table analysis, and visualisations done primarily with Google Sheets.
+
+- *Coming soon :)*
+
+## Tools & Techniques
+
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data visualisation with Google Sheets and Python libraries  
+- Bias detection and correction  
+- Reporting and storytelling with data
+
+## How to Use This Repo
+
+- Explore each project folder for detailed files and documentation  
+- Review the analysis steps and visualisations  
+- Feel free to reach out if you have any questions or collaboration ideas!
+
+## Contact
+
+- Email: dnanduri1910@gmail.com  
+- LinkedIn: linkedin.com/in/divya-nanduri-a86608256/ 
+- GitHub: https://github.com/divyans1910/
+
+---
+
+Thank you for visiting my portfolio!
+
