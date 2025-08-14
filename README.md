@@ -5,10 +5,14 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
 ## Projects Included
 
 ### Spreadsheet 
-- **Post-Covid Indian Kids Screen Time Analysis**  
+- **Indian Kids Screen Time Analysis[Post-COVID]**  
   Analysis of screen time patterns among Indian children aged 8-18 using real-world datasets in a post-COVID setting. Includes data cleaning, bias correction, pivot table analysis, and visualisations done primarily with Google Sheets.
 
-### Python + SQL 
+### R
+- **Bellabeat Case Analysis**
+  An analysis of Fitbit data for the Bellabeat dataset, exploring user activity and sleep patterns to derive actionable wellness insights as part of the Google Data Analytics course.
+
+### Python + SQ 
 - *Coming soon :)*
 
 ## Tools & Techniques
