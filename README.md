@@ -13,7 +13,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases a collection of 
   An analysis of Fitbit data for the Bellabeat dataset, exploring user activity and sleep patterns to derive actionable wellness insights as part of the Google Data Analytics course.
 
 ### Python 
-- ** Retail Sales & Inventory Analysis** 
+- **Retail Sales & Inventory Analysis** 
 Analysis of retail sales and inventory data to study pricing impact on revenue, product margins, and stock expiry risks.
 
  ### SQL
